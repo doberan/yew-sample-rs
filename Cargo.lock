@@ -513,7 +513,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "yew-sample-rs"
+name = "yew_sample_rs"
 version = "0.1.0"
 dependencies = [
  "yew 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)",

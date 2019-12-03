@@ -1,5 +1,5 @@
 [package]
-name = "yew-sample-rs"
+name = "yew_sample_rs"
 version = "0.1.0"
 authors = ["suzukimasaya"]
 edition = "2018"
